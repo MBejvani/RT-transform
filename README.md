@@ -1,8 +1,8 @@
 # Radial trace (RT) transform
 
 ## Synthetic shot record
-![synthetic shot](img/shot_im.png)
-![synthetic shot](img/shot_plt.png)
+![synthetic shot](img/Shot_im.png)
+![synthetic shot](img/Shot_plt.png)
 
 ## Radial trace transform
 ![RTTransform](img/rt.png)
